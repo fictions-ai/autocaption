@@ -8,7 +8,7 @@ Add Nice Captions for your video
 
 ## 🔗 Requirements
 
-- imagemagick: download it from the [official imagemagick site](https://imagemagick.org/script/download.php). Follow the instructions appropriate for your operating system.
+- ImageMagick: download it from the [official imagemagick site](https://imagemagick.org/script/download.php). Follow the instructions appropriate for your operating system.
 
 ##  Installation
 
