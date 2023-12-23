@@ -1,4 +1,5 @@
 # autocaption
+[![Run on Replicate](https://replicate.com/chigozienri/autocaption/badge)](https://replicate.com/chigozienri/autocaption)
 
 Add Nice Captions for your video
 
