@@ -25,7 +25,7 @@ Create environment
 
 activate the environment
 
-    venv/Scripts/activate
+    source venv/bin/activate
 
 install
 
