@@ -1,7 +1,6 @@
 # autocaption
 [![Run on Replicate](https://replicate.com/chigozienri/autocaption/badge)](https://replicate.com/fictions-ai/autocaption)
-
-Add Nice Captions for your video
+[![Run on colab](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/camenduru/DDColor-colab/blob/main/autocaption_colab.ipynb)
 
 ## 🚀 Updates
 **2023.12.20**
